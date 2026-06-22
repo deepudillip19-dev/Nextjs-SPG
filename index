@@ -1,6 +1,0 @@
-git init
-git add .
-git commit -m "feat: complete clinical management system"
-git branch -M main
-git remote add origin https://github.com/deepudillip19-dev/Nextjs-SPG.git
-git push -u origin main
